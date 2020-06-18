@@ -1,0 +1,104 @@
+body {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+
+}
+
+
+
+a {
+
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+
+
+    color: rgb(201, 21, 21);
+
+}
+
+
+#header {
+    height: 1000vh;
+    background-image: url(img/arka.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+.logo {
+    margin-top: 10px 10px 10px;
+    width: 30%;
+    margin-left: 500px;
+
+}
+
+.logo {
+    margin-top: 10px;
+    width: 30%;
+    margin-left: 10px;
+}
+
+
+#sideNav {
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    right: -250px;
+    top: 0;
+    background: rgb(216, 230, 225);
+    z-index: 2;
+
+}
+
+nav ul li {
+    list-style: none;
+    margin: 50px 20px;
+
+}
+
+nav ul li {
+    text-decoration: none;
+    color: rgb(214, 188, 188);
+}
+
+
+#menuBtn {
+    width: 50px;
+    position: fixed;
+    right: 65px;
+    top: 35px;
+    z-index: 2;
+    cursor: pointer;
+}
+
+h1{
+    color: beige;
+}
+
+li{
+    color: beige;
+}
+
+h3{
+    color: beige;
+
+}
+
+h4{
+    color: chartreuse;
+}
+
+
+h2{
+    color: darkgoldenrod;
+}
